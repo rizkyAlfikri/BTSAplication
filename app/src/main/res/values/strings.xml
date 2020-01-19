@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BTS Aplication</string>
+    <string name="tab_text_1">SignIn</string>
+    <string name="tab_text_2">SignUp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="city">City</string>
+    <string name="name">Name</string>
+    <string name="postcode">Postcode</string>
+</resources>
